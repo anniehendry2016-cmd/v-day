@@ -14,7 +14,6 @@ const noMessages = [
     "Oh? Playing hard to get now? 😏",
     "Come on bestieeee...",
     "What if I whisper please?",
-    "You sure you can resist me? ",
     "You can't catch me anyway 😜"
 ]
 
